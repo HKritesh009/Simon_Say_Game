@@ -1,7 +1,8 @@
 # 🧠 Simon Says Game – Overview
 The Simon Says game is a memory-based pattern game where players repeat a sequence of colors or sounds. It's a fun and challenging way to test and improve memory and attention.
 
-#Site is Visible at 
+# Site is Visible at 
+
 [https://hkritesh009.github.io/Simon_Say_Game](https://hkritesh009.github.io/Simon_Say_Game)
 
 ## 🎮 What is the Simon Says Game?
