@@ -1,4 +1,2 @@
+docs/** linguist-detectable=true
 
-docs/*.js linguist-language=JavaScript
-docs/*.html linguist-language=HTML
-docs/*.css linguist-language=CSS
